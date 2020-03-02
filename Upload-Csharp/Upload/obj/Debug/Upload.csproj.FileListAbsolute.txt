@@ -1,0 +1,9 @@
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\bin\Debug\Upload.exe.config
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\bin\Debug\Upload.exe
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\bin\Debug\Upload.pdb
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\bin\Debug\WebDriver.dll
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\bin\Debug\WebDriver.xml
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\obj\Debug\Upload.csprojAssemblyReference.cache
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\obj\Debug\Upload.csproj.CopyComplete
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\obj\Debug\Upload.exe
+C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\Upload\Upload\obj\Debug\Upload.pdb
