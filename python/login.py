@@ -4,9 +4,9 @@ from time import sleep
 class Google:
 
  def __init__(self,username,password):
-  self.driver=webdriver.Chrome('C:/Users/omnyvz/Desktop/chromedriver.exe')
+  self.driver=webdriver.Chrome(r'C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\python\chromedriver.exe')
   self.driver.get('https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f')
-  sleep(3)
+  #sleep(3)
   self.driver.find_element_by_xpath('//*[@id="openid-buttons"]/button[1]').click()
   self.driver.find_element_by_xpath('//input[@type="email"]').send_keys(username)
   self.driver.find_element_by_xpath('//*[@id="identifierNext"]').click()
@@ -20,8 +20,8 @@ class Google:
   self.driver.get('https://www.youtube.com/upload')
   sleep(5)
   elem = self.driver.find_element_by_xpath("//input[@type='file']")
-  elem.send_keys("C:/Users/omnyvz/Desktop/TestVideo.mp4")
+  elem.send_keys(r"C:\Users\omnyvz\Desktop\Github\SeleniumYoutubeUpload\python\TestVideo.mp4")
 
 
 
-mylike= Google("ytcopier.adamlar@gmail.com","G7copita32")
+mylike= Google("","")

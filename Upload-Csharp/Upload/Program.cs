@@ -52,7 +52,7 @@ namespace Upload
             Thread.Sleep(2000);
 
 
-            driver.FindElement(By.XPath("//input[@name='identifier']")).SendKeys("iletisim.sokmagazin@gmail.com");
+            driver.FindElement(By.XPath("//input[@name='identifier']")).SendKeys("");
             Thread.Sleep(5000);
 
 
@@ -61,7 +61,7 @@ namespace Upload
 
 
 
-            driver.FindElement(By.XPath("//input[@name='password']")).SendKeys("G7copitaJP");
+            driver.FindElement(By.XPath("//input[@name='password']")).SendKeys("");
             Thread.Sleep(5000);
 
 
